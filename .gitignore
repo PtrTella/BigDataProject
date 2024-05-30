@@ -160,4 +160,5 @@ cython_debug/
 #.idea/
 /dataset/*
 !/dataset/README.md
+!/dataset/NetFlow v2 Features.csv
 /.devcontainer
